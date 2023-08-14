@@ -10,7 +10,7 @@ const fetchTikTokData = async (url) => {
             hd: '1'
         },
         headers: {
-            'X-RapidAPI-Key': '2ebd001406msh84b42813e2915a4p1ab843jsn84e0ddc2e491',
+            'X-RapidAPI-Key': 'YOUR API KEY HERE', <UPDATE THIS (README)
             'X-RapidAPI-Host': 'tiktok-video-no-watermark2.p.rapidapi.com'
         }
     };
